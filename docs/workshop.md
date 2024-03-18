@@ -118,7 +118,7 @@ Sometimes, we may want to establish a separate area unrelated to the Bronze laye
 ## Read data from streams
 
 With Eventstream, we can read data from streaming sources like EventHub and store it in a KQL Database or Lakehouse.
-From **Real-Time Analitics** create **Eventstream**
+
 
 ![Shortcuts](assets/RTA/rta_architecture.png)
 
