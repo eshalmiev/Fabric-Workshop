@@ -133,7 +133,6 @@ Users with admin permissions to a Microsoft Fabric workspace can create, view, a
 In a Fabric workspace, navigate to the workspace → Workspace settings → Network security → Create 
 Get Resource identifier  from Azure portal → Resource group → SQL server → Properties → Resource ID (started with /subscriptions/)
 
-
 ![Shortcuts](assets/PrivateEndpoint/Create1.png)
 
 
