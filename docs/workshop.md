@@ -125,4 +125,21 @@ With Eventstream, we can read data from streaming sources like EventHub and stor
 ---
 
 
+# Create Private Endpoints
+
+* [Create and use managed private endpoints in Microsoft Fabric](<https://learn.microsoft.com/en-us/fabric/security/security-managed-private-endpoints-create>)   
+
+Users with admin permissions to a Microsoft Fabric workspace can create, view, and delete managed private endpoints from the Fabric portal through the workspace settings.
+In a Fabric workspace, navigate to the workspace → Workspace settings → Network security → Create 
+Get Resource identifier  from Azure portal → Resource group → SQL server → Properties → Resource ID (started with /subscriptions/)
+
+
+![Shortcuts](assets/PrivateEndpoint/Create1.png)
+
+
+
+
+---
+
+
 # Security in Microsoft Fabric
